@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<LibraryCatalogue>
+	<Catalogue category="Technical">
+		<ISBN>
+			Joe
+		</ISBN>
+		<Title>
+			Murphy
+		</Title>
+		<Author>
+			1234567890
+		</Author>
+        <ISBN>
+			Joe
+		</ISBN>
+		<Title>
+			Murphy
+		</Title>
+		<Author>
+			1234567890
+		</Author>
+	</Employee>
+	<Employee category="Non-Technical">
+		<FirstName>
+			Mary
+		</FirstName>
+		<LastName>
+			Martin
+		</LastName>
+		<ContactNo>
+			1234667898
+		</ContactNo>
+	</Employee>
+</Company>
