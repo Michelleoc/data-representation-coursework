@@ -2,33 +2,46 @@
 <LibraryCatalogue>
 	<Catalogue category="Technical">
 		<ISBN>
-			Joe
+			123454
 		</ISBN>
 		<Title>
-			Murphy
+			Woodwork for Dummies
 		</Title>
 		<Author>
-			1234567890
+			Joe Bloggs
 		</Author>
+    </Catalogue>
+    <Catalogue category="Technical">
         <ISBN>
-			Joe
+			123459
 		</ISBN>
 		<Title>
-			Murphy
+			Electrican's Handbook
 		</Title>
 		<Author>
-			1234567890
+			Mr Bright Sparks
 		</Author>
-	</Employee>
-	<Employee category="Non-Technical">
-		<FirstName>
-			Mary
-		</FirstName>
-		<LastName>
-			Martin
-		</LastName>
-		<ContactNo>
-			1234667898
-		</ContactNo>
-	</Employee>
-</Company>
+	</Catalogue>
+	<Catalogue category="Cookery">
+        <ISBN>
+			123456
+		</ISBN>
+		<Title>
+			Everyday Meals
+		</Title>
+		<Author>
+			Jamie Oliver
+		</Author>
+	</Catalogue>
+    	<Catalogue category="Cookery">
+        <ISBN>
+			123458
+		</ISBN>
+		<Title>
+			Desserts
+		</Title>
+		<Author>
+			Darina Allen
+		</Author>
+	</Catalogue>
+</LibraryCatalogue>
