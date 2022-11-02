@@ -1,30 +1,27 @@
 <?xml version="1.0"?>
 <LibraryCatalogue>
-	<technical_books>
-		<Catalogue category="Technical">
-			<ISBN>
-				123454
-			</ISBN>
-			<Title>
-				Woodwork for Dummies
-			</Title>
-			<Author>
-				Joe Bloggs
-			</Author>
-		</Catalogue>
-		<Catalogue category="Technical">
-			<ISBN>
-				123459
-			</ISBN>
-			<Title>
-				Electrican's Handbook
-			</Title>
-			<Author>
-				Mr Bright Sparks
-			</Author>
-		</Catalogue>
-	</technical_books>	
-	<cookery_books>
+	<Catalogue category="Technical">
+		<ISBN>
+			123454
+		</ISBN>
+		<Title>
+			Woodwork for Dummies
+		</Title>
+		<Author>
+			Joe Bloggs
+		</Author>
+	</Catalogue>
+	<Catalogue category="Technical">
+		<ISBN>
+			123459
+		</ISBN>
+		<Title>
+			Electrican's Handbook
+		</Title>
+		<Author>
+			Mr Bright Sparks
+		</Author>
+	</Catalogue>
 	<Catalogue category="Cookery">
         <ISBN>
 			123456
@@ -47,5 +44,4 @@
 			Darina Allen
 		</Author>
 	</Catalogue>
-	</cookery_books>
 </LibraryCatalogue>
