@@ -1,5 +1,5 @@
-<?xml version="1.0"?>
-<LibraryCatalogue>
+<?xml version="1.0" encoding="UTF-8"?>
+<Library>
 	<Catalogue category="Technical">
 		<ISBN>
 			123454
@@ -33,7 +33,7 @@
 			Jamie Oliver
 		</Author>
 	</Catalogue>
-    	<Catalogue category="Cookery">
+    <Catalogue category="Cookery">
         <ISBN>
 			123458
 		</ISBN>
@@ -44,4 +44,4 @@
 			Darina Allen
 		</Author>
 	</Catalogue>
-</LibraryCatalogue>
+</Library>
