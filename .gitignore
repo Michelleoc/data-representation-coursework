@@ -130,5 +130,7 @@ dmypy.json
 
 # config file
 config.py
+dbconfig.py
+
 
 
