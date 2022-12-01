@@ -8,12 +8,12 @@ import requests
 from github import Github
 from config import config as cfg
 
-url = "https://github.com/Michelleoc/aprivateone"
+url = "Michelleoc/data-representation-courseware"
 
 apiKey = cfg["key"]
 g = Github(apiKey)
 
-repo = g.get_repo("Michelleoc/aprivateone")
+repo = g.get_repo("Michelleoc/data-representation-coursework")
 
 file_info = repo.get_contents("testing_Andrew_Michelle.txt")
 file_url = file_info.download_url    
@@ -23,5 +23,4 @@ file_content = response.text
 new_content = file_content.replace("Andrew", "Michelle")
 
 github_response = repo.update_file(file_info.path,"Replace Andrew with Michelle",new_content,file_info.sha)
-print (github_response)
 
